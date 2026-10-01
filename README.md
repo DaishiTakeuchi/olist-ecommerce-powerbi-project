@@ -34,19 +34,13 @@ Brazilian E-Commerce Public Dataset by Olist (Kaggle)
 | 7 | Customer Satisfaction / Reviews |
 | 8 | Seller Performance |
 
-## Key Insights
-- [insight 1 + number]
-- [insight 2 + number]
-- [insight 3 + number]
-
-See the Notion page above for dashboard screenshots and detailed findings.
 
 ## Skills Demonstrated
 SQL (JOIN, CTE, window functions, VIEW) · Data modeling · DAX · RFM segmentation · Dashboard design
 
 ## Files
 - [sql](olist.sql)
-- `powerbi/olist_project.pbix` : Power BI file
+- [powerbi_olist_project.pbix](olist_project.pbix)
 
 ## Author
-Daishi Takeuchi · [LinkedIn](PASTE_LINKEDIN_LINK)
+Daishi Takeuchi · [LinkedIn](https://www.linkedin.com/in/daishi-takeuchi-4b0923359/)
