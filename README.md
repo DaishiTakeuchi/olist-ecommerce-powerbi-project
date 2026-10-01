@@ -1,7 +1,6 @@
-# olist-ecommerce-powerbi-project
-Olist E-Commerce Dashboard (Power BI + MySQL)
+to-end analysis of a Brazilian e-commerce marketplace: SQL data cleaning → Power BI dashboard → business insights.
 
-End-to-end analysis of a Brazilian e-commerce marketplace: SQL data cleaning → Power BI dashboard → business insights.
+Show Image
 
 Objective
 
@@ -32,13 +31,17 @@ Analysis Framework (8 dimensions)
 7	Customer Satisfaction / Reviews
 8	Seller Performance
 Key Insights
+[insight 1 + number]
+[insight 2 + number]
+[insight 3 + number]
 Skills Demonstrated
 
 SQL (JOIN, CTE, window functions, VIEW) · Data modeling · DAX · RFM segmentation · Dashboard design
 
 Files
 sql/ : import, cleaning, and olist_master view scripts
-powerbi/ : olist_project.pbix file
-
+powerbi/olist_project.pbix : Power BI file
+images/ : dashboard screenshots
 Author
+
 Daishi Takeuchi · LinkedIn
