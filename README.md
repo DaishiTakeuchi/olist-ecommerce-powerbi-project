@@ -8,7 +8,7 @@ End-to-end analysis of a Brazilian e-commerce marketplace: SQL data cleaning →
 Answer business questions across 8 dimensions to understand sales, customers, logistics, and satisfaction.
 
 ## Dataset
-Brazilian E-Commerce Public Dataset by Olist (Kaggle)
+[Brazilian E-Commerce Public Dataset by Olist (Kaggle)](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 
 ## Tools
 - **MySQL**: data cleaning, JOINs, window functions, VIEW
