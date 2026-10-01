@@ -3,8 +3,6 @@ Olist E-Commerce Dashboard (Power BI + MySQL)
 
 End-to-end analysis of a Brazilian e-commerce marketplace: SQL data cleaning → Power BI dashboard → business insights.
 
-Show Image
-
 Objective
 
 Answer 40 business questions across 8 dimensions to understand sales, customers, logistics, and satisfaction.
