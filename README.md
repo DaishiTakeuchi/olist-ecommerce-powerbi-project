@@ -36,7 +36,7 @@ Answer business questions across 8 dimensions to understand sales, customers, lo
 
 
 ## Skills Demonstrated
-SQL (JOIN, CTE, window functions, VIEW) · Data modeling · DAX · RFM segmentation · Dashboard design
+SQL · Data modeling · DAX · RFM segmentation · Dashboard design
 
 ## Files
 - [sql](olist.sql)
