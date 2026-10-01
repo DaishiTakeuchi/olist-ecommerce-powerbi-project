@@ -2,7 +2,7 @@
 
 End-to-end analysis of a Brazilian e-commerce marketplace: SQL data cleaning → Power BI dashboard → business insights.
 
-📊 **[View the dashboard & full project summary on Notion](https://app.notion.com/p/Brazilian-E-Commerce-Public-Dataset-by-Olist-3ea872d573c980c4aeaac94d1e709348?source=copy_link)**
+[View the dashboard & full project summary on Notion](https://app.notion.com/p/Brazilian-E-Commerce-Public-Dataset-by-Olist-3ea872d573c980c4aeaac94d1e709348?source=copy_link)
 
 ## Objective
 Answer business questions across 8 dimensions to understand sales, customers, logistics, and satisfaction.
