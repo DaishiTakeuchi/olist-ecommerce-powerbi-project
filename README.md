@@ -1,47 +1,52 @@
-to-end analysis of a Brazilian e-commerce marketplace: SQL data cleaning → Power BI dashboard → business insights.
+# Olist E-Commerce Dashboard (Power BI + MySQL)
 
-Show Image
+End-to-end analysis of a Brazilian e-commerce marketplace: SQL data cleaning → Power BI dashboard → business insights.
 
-Objective
+📊 **[View the dashboard & full project summary on Notion](https://app.notion.com/p/Brazilian-E-Commerce-Public-Dataset-by-Olist-3ea872d573c980c4aeaac94d1e709348?source=copy_link)**
 
-Answer 40 business questions across 8 dimensions to understand sales, customers, logistics, and satisfaction.
+## Objective
+Answer business questions across 8 dimensions to understand sales, customers, logistics, and satisfaction.
 
-Dataset
+## Dataset
+Brazilian E-Commerce Public Dataset by Olist (Kaggle)
 
-Olist Brazilian E-Commerce (Kaggle, public data)
+## Tools
+- **MySQL**: data cleaning, JOINs, window functions, VIEW
+- **Power BI**: data model, DAX measures, dashboards
 
-Tools
-MySQL: data cleaning, JOINs, window functions, VIEW
-Power BI: data model, DAX measures, dashboards
-Excel: supporting checks
-Workflow
-Imported 8 CSV tables into MySQL (LOAD DATA LOCAL INFILE)
-Cleaned data: filled 610 missing product categories as unknown; deduplicated reviews to 1 per order using ROW_NUMBER()
-Built the olist_master VIEW joining orders, items, customers, products, sellers, payments, and reviews
-Connected Power BI to the view and built DAX measures
-Designed dashboards by dimension
-Analysis Framework (8 dimensions)
-#	Dimension
-1	Sales & Revenue Performance
-2	Product Category Performance
-3	Customer Behavior & Segmentation (RFM)
-4	Geography / Regional Analysis
-5	Payment Behavior
-6	Delivery & Logistics Performance
-7	Customer Satisfaction / Reviews
-8	Seller Performance
-Key Insights
-[insight 1 + number]
-[insight 2 + number]
-[insight 3 + number]
-Skills Demonstrated
+## Workflow
+1. Imported 8 CSV tables into MySQL (`LOAD DATA LOCAL INFILE`)
+2. Cleaned data: filled 610 missing product categories as `unknown`; deduplicated reviews to 1 per order using `ROW_NUMBER()`
+3. Built the `olist_master` VIEW joining orders, items, customers, products, sellers, payments, and reviews
+4. Connected Power BI to the view and built DAX measures
+5. Designed dashboards by dimension
 
+## Analysis Framework (8 dimensions)
+
+| # | Dimension |
+|---|-----------|
+| 1 | Sales & Revenue Performance |
+| 2 | Product Category Performance |
+| 3 | Customer Behavior & Segmentation (RFM) |
+| 4 | Geography / Regional Analysis |
+| 5 | Payment Behavior |
+| 6 | Delivery & Logistics Performance |
+| 7 | Customer Satisfaction / Reviews |
+| 8 | Seller Performance |
+
+## Key Insights
+- [insight 1 + number]
+- [insight 2 + number]
+- [insight 3 + number]
+
+See the Notion page above for dashboard screenshots and detailed findings.
+
+## Skills Demonstrated
 SQL (JOIN, CTE, window functions, VIEW) · Data modeling · DAX · RFM segmentation · Dashboard design
 
-Files
-sql/ : import, cleaning, and olist_master view scripts
-powerbi/olist_project.pbix : Power BI file
-images/ : dashboard screenshots
-Author
+## Files
+- [sql](olist.sql)
+- `powerbi/olist_project.pbix` : Power BI file
 
-Daishi Takeuchi · LinkedIn
+## Author
+Daishi Takeuchi · [LinkedIn](PASTE_LINKEDIN_LINK)
