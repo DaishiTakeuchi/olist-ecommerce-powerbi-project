@@ -3,7 +3,9 @@
 End-to-end analysis of a Brazilian e-commerce marketplace: SQL data cleaning → Power BI dashboard → business insights.
 
 View the dashboard & full project summary on Notion
+
 [Thai version](https://app.notion.com/p/Brazilian-E-Commerce-Public-Dataset-by-Olist-3ea872d573c980c4aeaac94d1e709348?source=copy_link)
+
 [English version](https://app.notion.com/p/Brazilian-E-Commerce-Public-Dataset-by-Olist-EN-9a7872d573c982649e4081d146c0d751?source=copy_link)
 
 
